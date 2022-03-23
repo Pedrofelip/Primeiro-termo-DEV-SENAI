@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\c# projetos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache

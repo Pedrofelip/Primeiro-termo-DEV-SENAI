@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\bin\Debug\netcoreapp3.1\logica de programação.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\logica de programação\obj\Debug\netcoreapp3.1\logica de programação.genruntimeconfig.cache

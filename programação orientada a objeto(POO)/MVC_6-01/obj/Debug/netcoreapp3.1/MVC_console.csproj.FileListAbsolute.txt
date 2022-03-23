@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\bin\Debug\netcoreapp3.1\MVC_console.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\MVC_console\obj\Debug\netcoreapp3.1\MVC_console.genruntimeconfig.cache

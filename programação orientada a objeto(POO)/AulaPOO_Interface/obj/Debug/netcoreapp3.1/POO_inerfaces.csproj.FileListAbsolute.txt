@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\bin\Debug\netcoreapp3.1\POO_inerfaces.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_inerfaces\obj\Debug\netcoreapp3.1\POO_inerfaces.genruntimeconfig.cache

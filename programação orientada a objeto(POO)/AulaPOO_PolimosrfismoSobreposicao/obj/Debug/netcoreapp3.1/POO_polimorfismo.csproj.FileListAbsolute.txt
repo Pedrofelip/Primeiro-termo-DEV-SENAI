@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\bin\Debug\netcoreapp3.1\POO_polimorfismo.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_polimorfismo\obj\Debug\netcoreapp3.1\POO_polimorfismo.genruntimeconfig.cache

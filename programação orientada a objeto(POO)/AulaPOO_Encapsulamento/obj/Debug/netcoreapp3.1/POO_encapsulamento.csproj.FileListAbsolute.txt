@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\bin\Debug\netcoreapp3.1\POO_encapsulamento.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_encapsulamento\obj\Debug\netcoreapp3.1\POO_encapsulamento.genruntimeconfig.cache

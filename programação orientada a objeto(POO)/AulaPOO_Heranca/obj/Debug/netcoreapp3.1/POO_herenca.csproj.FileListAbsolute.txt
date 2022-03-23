@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\bin\Debug\netcoreapp3.1\POO_herenca.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\POO_herenca\obj\Debug\netcoreapp3.1\POO_herenca.genruntimeconfig.cache

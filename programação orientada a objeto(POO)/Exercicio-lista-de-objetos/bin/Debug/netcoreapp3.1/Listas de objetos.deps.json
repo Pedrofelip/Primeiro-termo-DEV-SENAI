@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Listas de objetos/1.0.0": {
+        "runtime": {
+          "Listas de objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Listas de objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

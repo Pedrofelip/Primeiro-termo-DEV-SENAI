@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\bin\Debug\netcoreapp3.1\SistemasDeProdutos_2112.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\SistemasDeProdutos_2112\obj\Debug\netcoreapp3.1\SistemasDeProdutos_2112.genruntimeconfig.cache

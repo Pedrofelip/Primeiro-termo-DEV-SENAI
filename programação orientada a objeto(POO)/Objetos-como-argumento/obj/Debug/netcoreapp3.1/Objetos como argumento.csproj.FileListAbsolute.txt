@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\bin\Debug\netcoreapp3.1\Objetos como argumento.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Objetos como argumento\obj\Debug\netcoreapp3.1\Objetos como argumento.genruntimeconfig.cache
